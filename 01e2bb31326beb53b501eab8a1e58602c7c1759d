@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.6",
+  "base_commit_sha": "01e2bb31326beb53b501eab8a1e58602c7c1759d",
+  "prompts": {
+    "90b7798373331df4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "06f32f68-1415-48e9-8db9-301a7b7e9b1b",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Pierson Marks",
+      "messages": [],
+      "total_additions": 929,
+      "total_deletions": 57,
+      "accepted_lines": 739,
+      "overriden_lines": 15
+    }
+  }
+}
