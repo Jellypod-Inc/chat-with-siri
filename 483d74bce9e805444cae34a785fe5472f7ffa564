@@ -1,0 +1,31 @@
+app/components/chatVoice.tsx
+  90b7798373331df4 2,4-10,13-47,49-51,54-55
+app/chat/page.tsx
+  90b7798373331df4 12-17,24-30,56,63,65-66,71-72,96,119-129,134-140,157-165
+app/utils/getVoices.ts
+  90b7798373331df4 4-8,10-35,37-40
+app/types/chat.ts
+  90b7798373331df4 1,18-24,26,29-30
+app/api/speech/route.ts
+  90b7798373331df4 1-4,8-27,29-31,34-38,41-42,46-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.6",
+  "base_commit_sha": "483d74bce9e805444cae34a785fe5472f7ffa564",
+  "prompts": {
+    "90b7798373331df4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "06f32f68-1415-48e9-8db9-301a7b7e9b1b",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Pierson Marks",
+      "messages": [],
+      "total_additions": 182,
+      "total_deletions": 61,
+      "accepted_lines": 920,
+      "overriden_lines": 0
+    }
+  }
+}
