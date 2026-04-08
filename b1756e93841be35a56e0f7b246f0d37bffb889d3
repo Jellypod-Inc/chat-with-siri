@@ -1,0 +1,23 @@
+app/chat/page.tsx
+  90b7798373331df4 25,121,135-137,149
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.6",
+  "base_commit_sha": "b1756e93841be35a56e0f7b246f0d37bffb889d3",
+  "prompts": {
+    "90b7798373331df4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "06f32f68-1415-48e9-8db9-301a7b7e9b1b",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Pierson Marks",
+      "messages": [],
+      "total_additions": 6,
+      "total_deletions": 1,
+      "accepted_lines": 738,
+      "overriden_lines": 0
+    }
+  }
+}
